@@ -4,7 +4,7 @@ import math
 
 def area_of_paint(x_axis, y_axis, can_cover):
     area_of_paint = x_axis * y_axis 
-    can_amount = can_cover 
+    can_amount = can_cover
     number_of_cans = math.ceil(area_of_paint / can_cover) 
     
     return number_of_cans
