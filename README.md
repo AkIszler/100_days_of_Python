@@ -1,8 +1,8 @@
-#<center>Update: I efffed around and kinda fell in love with Javascript.</center>
+# <center>Update: I efffed around and kinda fell in love with Javascript.</center>
 <center>so more than likely thats how I will finish my 100 Days challenge, and post a file project</center>
 
 
-#<center><b>*** ***DAY 28 - 07-05-23*** ***<b> </center>
+# <center><b>*** ***DAY 28 - 07-05-23*** ***<b> </center>
 
 # <center>100 Days of Code Challenge!!</center>
 
