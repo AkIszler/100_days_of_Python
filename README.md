@@ -1,3 +1,5 @@
+<center>
+
 # <center>Update: I efffed around and kinda fell in love with Javascript.</center>
 <center>so more than likely thats how I will finish my 100 Days challenge, and post a file project</center>
 
@@ -30,3 +32,4 @@ During the next 100 days, I will be dedicating myself to mastering Python and ex
 
 By the end of these 100 days, I aim to become proficient in Python and have a solid foundation in software development as well as web development, I want to try and build a javascript application, and have it link to a python backend, not for any real reason besides learning to mix and match different coding/programming languages!
 
+</center>
